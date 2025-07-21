@@ -1,3 +1,5 @@
 # Hello world!
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Bogdan8282/test)
+![status](https://img.shields.io/badge/<label>-<message>-<color>)
+![status](https://img.shields.io/badge/status-work--in--progress-yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/Bogdan8282/test)
